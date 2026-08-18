@@ -25,7 +25,7 @@ A simple and interactive Color Palette Generator built using HTML, CSS and JavaS
 
 ## 🌐 Live Demo
 
-Coming soon...
+https://yamunakumari890.github.io/color-palette-generator/
 
 ## 🧠 What I Learned
 
